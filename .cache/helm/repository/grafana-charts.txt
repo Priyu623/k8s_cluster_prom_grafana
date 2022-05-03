@@ -1,0 +1,17 @@
+enterprise-metrics
+loki-stack
+mimir-distributed
+tempo-vulture
+grafana
+loki-canary
+tempo
+tempo-distributed
+enterprise-logs-simple
+fluent-bit
+loki-simple-scalable
+promtail
+rollout-operator
+enterprise-logs
+grafana-agent-operator
+loki
+loki-distributed
